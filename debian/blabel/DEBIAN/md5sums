@@ -1,0 +1,8 @@
+f2e23bd6a0e094334e9f498e779c9e1c  usr/bin/blabel
+2834de3f69193cbf326f2702f594951b  usr/share/applications/blabel.desktop
+3d1f67b2158113c98a309c91c7d2b2de  usr/share/blabel/blabel.glade
+87ca7f89b9ba4f7482a4155fedc45f70  usr/share/doc/blabel/README
+520d5cb9a0fb72e4c8f84e519976723f  usr/share/doc/blabel/changelog.Debian.gz
+7b8b16fa7267e13db0abfa035e843ac2  usr/share/doc/blabel/copyright
+0d8555dc5d3dc8a0b4fe71473700b867  usr/share/man/man1/blabel.1.gz
+c483276748afa4d40f42cd4ec90ddd4c  usr/share/pixmaps/blabel.png

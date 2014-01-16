@@ -1,0 +1,12 @@
+Package: blabel
+Version: 0.06-1
+Architecture: all
+Maintainer: Ari Sovijärvi (APz) <ari@sovijarvi.fi>
+Installed-Size: 94
+Depends: libgtk2-perl (>= 1.221), libgtk2-gladexml-perl (>= 1.007), libgd-perl, cups-bsd
+Section: misc
+Priority: optional
+Homepage: http://apz.fi/blabel/
+Description: B-label is a label printing program for Brother's PT-series of label printers.
+ B-label prints labels on Brother's USB-connected
+ models, including PT-1230PC and PT-2430PC.
